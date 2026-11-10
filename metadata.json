@@ -1,0 +1,7 @@
+{
+  "name": "NEXOVA - 404 Error Page",
+  "description": "Cinematic full-page 404 error experience for cloud hosting provider NEXOVA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
